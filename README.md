@@ -10,7 +10,7 @@
 </div>
 <br>
 <p align="center">
-    🚀 Projeto realizado na semanda Sping React do <a href="https://github.com/devsuperior">Dev Superior</a>
+    🚀 Projeto realizado na Semana Sping React do <a href="https://github.com/devsuperior">Dev Superior</a>
 </p>
 <p align="center">
     
